@@ -1,5 +1,4 @@
-
-<!--# Hi there! I'm Simona 👋
+# Hi there! I'm Simona 👋
 
 🎓 Software Engineering Student at Brainster Next College
 
